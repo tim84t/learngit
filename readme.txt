@@ -6,4 +6,6 @@ Git is free software.
 merge
 Cseating a new branch is quick.
 Creating a new branch is quick and simple.
-d
+Creating a new branch is quick.
+Creating anew branch is quick and simple.
+dsaf
